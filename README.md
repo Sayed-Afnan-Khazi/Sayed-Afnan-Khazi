@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sayed-Afnan-Khazi
 - 👀 I’m interested in coding, video games and Piano!
 - 🌱 I’m currently learning CS as a major in college
-- 💞️ I’m looking to collaborate on beginner projects
+- 💞️ I’m looking to collaborate on intermediate projects
 - 📫 How to reach me @OofnanK on Twitter
 
 <!---
